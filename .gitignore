@@ -1,0 +1,6 @@
+# achivos de compilacion
+/target/*
+
+# propiedades de compilacion
+/src/main/resources/dev.properties
+/src/main/resources/pdn.properties
